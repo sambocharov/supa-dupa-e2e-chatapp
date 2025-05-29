@@ -1,0 +1,3 @@
+# Amazing chat app with Go backend and Rust CLI client
+
+Stay tuned for a proper readme...
